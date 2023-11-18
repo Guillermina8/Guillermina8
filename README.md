@@ -7,7 +7,7 @@
 - 💼 Tengo experiencia en formaciones empresariales y desarrollo personal obtenidas en LEVEL UP. Me encantaría poder ayudar a las organizaciones a impulsar sus operaciones y estrategias digitales.
 - 💻 Disfruto diseñar páginas, programar y espero en breve estar trabajando en proyectos emocionantes.
 - 🌱 Soy una persona extrovertida y alegre, con fuertes habilidades sociales y de liderazgo. Creo firmemente en la importancia de la preparación, por lo que me encuentro en constante aprendizaje y mejora de mis habilidades.
-- 📫 Puedes contactarme a través de mi correo electrónico guillermina@hotmail.com.
+- 📫 Puedes contactarme a través de mi correo electrónico guillermina888@hotmail.com
  
 **Lenguajes de programación**:
 - C#
